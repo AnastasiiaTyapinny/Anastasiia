@@ -1,0 +1,71 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-size: 16px;
+	color: #333;
+	font-weight: 400;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+	padding: 18px 0;
+}
+
+.container {
+	max-width: 1200px;
+	background: aqua;
+	min-height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+.Logo, main-nav, login-nav {
+	display: inline-block;
+	vertical-align: middle;
+
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.main-nav a {
+	color: #333;
+	text-decoration: none;
+	font-weight: 700;
+	padding: 10px 8px;
+}
+.login-button, {
+	font-size: 16px;
+	font-family: 'Josefin Sans', sans-serif;
+	line-height: 1.2;
+	border: 1px solid #F56B8D;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-decoration: none;
+	padding: 16px 40px;
+	color: #F56B8D;
+	margin: 16px;
+
+
+
+.active-button {
+	color: #FFFFFF;
+	background-color: #128C76;
+	background-color: #128C76;
+}
+
+.active-buttom {
+	color: #FFFFFF;
+	background-color: #128C76;
+	background-color: #128C76;
+}
